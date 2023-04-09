@@ -1,4 +1,3 @@
-# discord= Vexilon☆#1881
 # Network interface names to be checked
 interface1="eth0"
 interface2="wlan0"
